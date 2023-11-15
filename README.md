@@ -1,7 +1,7 @@
 # Cloudflare OTA Server
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![CodeFactor](https://www.codefactor.io/repository/github/acvigue/cloudflare-ota-server/badge)](https://www.codefactor.io/repository/github/acvigue/cloudflare-ota-server)
+[![CodeFactor](https://www.codefactor.io/repository/github/acvigue/cloudflareotaserver/badge)](https://www.codefactor.io/repository/github/acvigue/cloudflareotaserver)
 
 Host OTA updates for all your projects using Cloudflare Workers and R2
 
