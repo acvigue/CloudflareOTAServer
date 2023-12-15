@@ -422,10 +422,10 @@ glob-to-regexp@^0.4.1:
   resolved "https://registry.yarnpkg.com/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz#c75297087c851b9a578bd217dd59a92f59fe546e"
   integrity sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==
 
-hono@^3.2.7:
-  version "3.2.7"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-3.2.7.tgz#8a5ba1a0d6d0cbe8df7bc134c7d10c3dbe1f901b"
-  integrity sha512-7YCF9t4oMF3L3ghvcmlEBx2hoC9VyBBLuVrPZiOkU7PtFBrnQtkFEnYCRcPKCJiMoXHX3bDhU9R3HQbw+WnQJg==
+hono@^3.11.7:
+  version "3.11.7"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-3.11.7.tgz#e44f8aa3a18f19775304328bde6f559f7a02447f"
+  integrity sha512-TcfAq7IdipF+9coxnuzYlSSBXbm9mTyWjjagLCv/2ampboNcKJdi+XCK5G48mHQtpI5+9Rj3J4FfcGgw9vzIww==
 
 http-cache-semantics@^4.1.0:
   version "4.1.1"
